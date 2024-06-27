@@ -4,12 +4,18 @@ Welcome to the Trivia Challenge!
 
 Question 1:
 What is the chemical symbol for the element tungsten?
+Answer 1:
+W
 
 Question 2:
 Who was the first woman to win a Nobel Prize?
+Answer 2:
+Marie Skłodowska-Curie
 
 Question 3:
 What is the world's second-largest country by land area?
+Answer 3:
+Canada
 
 Question 4:
 Which famous physicist developed the theory of general relativity?
