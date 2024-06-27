@@ -12,6 +12,7 @@ Question 3:
 What is the world's second-largest country by land area?
 Canada!
 
+
 Question 4:
 Which famous physicist developed the theory of general relativity?
 Albert Einstein
@@ -28,9 +29,12 @@ Which artist painted "Starry Night"?
 
 Question 8:
 Who wrote the novel "1984"?
+George Orwell
 
 Question 9:
 What is the smallest bone in the human body?
+Stapes in your ear
 
 Question 10:
 What is the tallest mountain in Africa?
+Kilomanjaro
