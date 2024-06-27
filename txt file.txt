@@ -4,14 +4,19 @@ Welcome to the Trivia Challenge!
 
 Question 1:
 What is the chemical symbol for the element tungsten?
+Answer 1:
+W
 
 Question 2:
 Who was the first woman to win a Nobel Prize?
+Answer 2:
+Marie Skłodowska-Curie
 
 Question 3:
 What is the world's second-largest country by land area?
-Canada!
 
+Answer 3:
+Canada
 
 Question 4:
 Which famous physicist developed the theory of general relativity?
@@ -23,10 +28,10 @@ Nile River
 
 Question 6:
 In what year did the Berlin Wall fall?
-
+1989
 Question 7:
 Which artist painted "Starry Night"?
-
+Vincent Van Gogh
 Question 8:
 Who wrote the novel "1984"?
 George Orwell
