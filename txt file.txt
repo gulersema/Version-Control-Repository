@@ -1,0 +1,33 @@
+txt file
+
+Welcome to the Trivia Challenge!
+
+Question 1:
+What is the chemical symbol for the element tungsten?
+
+Question 2:
+Who was the first woman to win a Nobel Prize?
+
+Question 3:
+What is the world's second-largest country by land area?
+
+Question 4:
+Which famous physicist developed the theory of general relativity?
+
+Question 5:
+What is the longest river in the world?
+
+Question 6:
+In what year did the Berlin Wall fall?
+
+Question 7:
+Which artist painted "Starry Night"?
+
+Question 8:
+Who wrote the novel "1984"?
+
+Question 9:
+What is the smallest bone in the human body?
+
+Question 10:
+What is the tallest mountain in Africa?
